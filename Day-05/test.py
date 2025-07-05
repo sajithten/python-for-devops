@@ -1,3 +1,5 @@
+
+## COMMAND LINE ARGUMENT
 import sys
 
 def add (num1,num2):
